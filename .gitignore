@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 Notas Spring Boot 2.docx
+~$tas Spring Boot 2.docx
+~WRL0003.tmp
+
 ### STS ###
 .apt_generated
 .classpath
